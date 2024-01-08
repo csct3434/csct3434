@@ -3,7 +3,7 @@
 ### Backend
 
 - Java
-- Spring Boot, Spring MVC, Spring Security
+- Spring Boot, Spring MVC, Spring Data JPA, Spring Security
 - JPA, JDBC Template
 - JUnit5, Mockito
 - Gradle
