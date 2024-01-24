@@ -4,4 +4,6 @@
 ☁️ 구름톤 유니브 1기 수료
 
 ## Resume
-<img src="https://img.shields.io/badge/Notion-blue?logo=notion&logoColor=white">
+<a href="https://therapeutic-skateboard-c1e.notion.site/DongCheol-Kim-7f9cf0ff56034c5b8e0e1d94b6097d93?pvs=4">
+  <img src="https://img.shields.io/badge/Notion-blue?logo=notion&logoColor=white">
+</a>
