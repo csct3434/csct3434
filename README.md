@@ -4,6 +4,6 @@
 🎓 `2024.02` : 홍익대학교 컴퓨터공학전공 졸업 <br>
 
 ## Resume
-<a href="https://drive.google.com/file/d/1UzT4b0Fid-U2lj7FiTNHr5671hIbsNmS/view?usp=sharing">
+<a href="https://drive.google.com/file/d/15MrCNWy3Ate7zRRRrGRVYmCDy94APbYZ/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-red?logo=GoogleDrive&logoColor=white">
 </a>
