@@ -1,4 +1,19 @@
-## Portfolio
-<a href="https://csct3434.notion.site/15cd7b563ccd4f7e9e2639e5533f0034">
-  <img src="https://img.shields.io/badge/Notion-blue?logo=notion&logoColor=white">
-</a>
+### 🔍 Introduce
+- I'm interested in Back-end.
+
+### 🛠️ Tech stack
+- Java, Spring Boot, AWS
+
+### ✨ History
+- `Samsung Software Academy For Youth 12th - Java` : 2024.07 ~
+- `Hongik University - Computer Engineering` : 2022.03 ~ 2024.02
+- `Goormthon Univ 1st - Backend` : 2023.10 ~ 2023.11
+- `Hyundai Softeer Bootcamp 2nd - Backend 2nd` : 2023.07 ~ 2023.08
+
+### 📚 Certificate
+- `Samsung Electronics Software Certificate - Pro` : 2024.08
+- `AWS Certified Solutions Architect - Associate` : 2023.12
+- `Structured Query Language Developer` : 2023.12
+- `Engineer Information Processing` : 2023.11
+- `Computer Specialist in Spreadsheet & Database - Level 1` : 2021.06
+- `Network Advisor - Grade 2` : 2021.01
