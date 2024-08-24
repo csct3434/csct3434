@@ -14,12 +14,11 @@
 - MySQL, Redis
 - Nginx
 - Github Actions
-- Prometheus, Grafana
 
 ### Tools & Collaboration
 
 - IntelliJ
-- Git
+- Prometheus, Grafana
 - Notion, Slack, Discord
 
 # 🎡 Experience
