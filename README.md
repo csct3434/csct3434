@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=DongCheol%20Kim&fontSize=70&fontAlignY=40&fontAlign=35&height=230&fontColor=ffffff)
+
 ### 🔍 Introduce
 - I'm interested in Back-end.
 
@@ -17,3 +19,7 @@
 - `Engineer Information Processing` : 2023.11
 - `Computer Specialist in Spreadsheet & Database - Level 1` : 2021.06
 - `Network Advisor - Grade 2` : 2021.01
+
+<br>
+
+[![csct3434's GitHub stats](https://github-readme-stats.vercel.app/api?username=csct3434&include_all_commits=true&theme=radical&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
