@@ -22,4 +22,4 @@
 
 <br>
 
-[![csct3434's GitHub stats](https://github-readme-stats.vercel.app/api?username=csct3434&include_all_commits=true&theme=radical&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+[![csct3434's GitHub stats](https://github-readme-stats.vercel.app/api?username=csct3434&theme=radical&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
