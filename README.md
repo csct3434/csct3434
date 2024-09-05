@@ -17,8 +17,6 @@
 - `AWS Certified Solutions Architect - Associate` : 2023.12
 - `Structured Query Language Developer` : 2023.12
 - `Engineer Information Processing` : 2023.11
-- `Computer Specialist in Spreadsheet & Database - Level 1` : 2021.06
-- `Network Advisor - Grade 2` : 2021.01
 
 <br>
 
