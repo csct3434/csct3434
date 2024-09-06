@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=DongCheol%20Kim&fontSize=70&fontAlignY=40&fontAlign=35&height=230&fontColor=ffffff)
 
-### 🔍 Introduce
-- I'm interested in Back-end.
-
 ### 🛠️ Tech stack
 - Java, Spring Boot, AWS
 
