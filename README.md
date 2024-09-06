@@ -8,9 +8,9 @@
 
 ### ✨ History
 - `Samsung Software Academy For Youth 12th - Java` : 2024.07 ~
-- `Hongik University - Computer Engineering` : 2022.03 ~ 2024.02
 - `Goormthon Univ 1st - Backend` : 2023.10 ~ 2023.11
 - `Hyundai Softeer Bootcamp 2nd - Backend` : 2023.07 ~ 2023.08
+- `Hongik University - Computer Engineering` : 2022.03 ~ 2024.02
 
 ### 📚 Certificate
 - `Samsung Electronics Software Certificate - Level B` : 2024.08
