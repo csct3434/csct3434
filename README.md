@@ -13,7 +13,7 @@
 - `Hyundai Softeer Bootcamp 2nd - Backend` : 2023.07 ~ 2023.08
 
 ### 📚 Certificate
-- `Samsung Electronics Software Certificate - Pro` : 2024.08
+- `Samsung Electronics Software Certificate - Level B` : 2024.08
 - `AWS Certified Solutions Architect - Associate` : 2023.12
 - `Structured Query Language Developer` : 2023.12
 - `Engineer Information Processing` : 2023.11
