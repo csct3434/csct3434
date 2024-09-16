@@ -4,16 +4,16 @@
 - Java, Spring Boot, AWS
 
 ### ✨ History
-- `Samsung Software Academy For Youth 12th - Java` : 2024.07 ~
-- `Goormthon Univ 1st - Backend` : 2023.10 ~ 2023.11
-- `Hyundai Softeer Bootcamp 2nd - Backend` : 2023.07 ~ 2023.08
-- `Hongik University - Computer Engineering` : 2022.03 ~ 2024.02
+- `삼성 청년 SW 아카데미 12기 - 자바` : 2024.07 ~
+- `구름톤 유니브 1기 - 백엔드` : 2023.10 ~ 2023.11
+- `현대자동차 소프티어 부트캠프 2기 - 백엔드` : 2023.07 ~ 2023.08
+- `홍익대학교 컴퓨터공학과` : 2022.03 ~ 2024.02
 
 ### 📚 Certificate
-- `Samsung Electronics Software Certificate - Level B` : 2024.08
+- `삼성전자 소프트웨어 역량테스트 B형` : 2024.08
 - `AWS Certified Solutions Architect - Associate` : 2023.12
-- `Structured Query Language Developer` : 2023.12
-- `Engineer Information Processing` : 2023.11
+- `SQLD` : 2023.12
+- `정보처리기사` : 2023.11
 
 <br>
 
