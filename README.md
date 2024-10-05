@@ -18,3 +18,11 @@
 <br>
 
 [![csct3434's GitHub stats](https://github-readme-stats.vercel.app/api?username=csct3434&theme=radical&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/csct3434"
+  width="600"
+  height="300"
+/>
+</a>
