@@ -6,7 +6,7 @@
 ### 🛠️ Tech stack
 - Java, Spring Boot, Spring Data JPA, AWS
 
-### ✨ History
+### ⏳ History
 - `삼성 청년 SW 아카데미 (SSAFY) 12기 - 자바` : 2024.07 ~
 - `구름톤 유니브 1기 - 백엔드` : 2023.10 ~ 2023.11
 - `현대자동차 소프티어 부트캠프 2기 - 백엔드` : 2023.07 ~ 2023.08
@@ -25,9 +25,5 @@
 - `Spring Data Redis` : [Improve StreamMessageListenerContainer Javadoc #3021](https://github.com/spring-projects/spring-data-redis/pull/3021)
 - `Rest Assured` : [Fix typo in Javadoc #3365](https://github.com/assertj/assertj/pull/3365)
 - `gitanimals` : [docs: line mode 'pet-id' 쿼리 파라미터 설명 추가 #31](https://github.com/assertj/assertj/pull/3365)
-
-<br>
-
-[![csct3434's GitHub stats](https://github-readme-stats.vercel.app/api?username=csct3434&theme=radical&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
 <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/csct3434" width="450" height="300"/></a>
