@@ -26,4 +26,10 @@
 - `Rest Assured` : [Fix typo in Javadoc #3365](https://github.com/assertj/assertj/pull/3365)
 - `gitanimals` : [docs: line mode 'pet-id' 쿼리 파라미터 설명 추가 #31](https://github.com/assertj/assertj/pull/3365)
 
-<a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/csct3434" width="450" height="300"/></a>
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=csct3434&theme=buefy&row=1&column=6">
+
+<a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/csct3434?pet-id=629640887027723051" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/csct3434?pet-id=627422376624737889" width="25%" height="100"/>
+</a>
