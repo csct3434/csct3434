@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=DongCheol%20Kim&fontSize=70&fontAlignY=40&fontAlign=35&height=230&fontColor=ffffff)
 
+<img src="https://github-profile-trophy.vercel.app/?username=csct3434&theme=buefy&row=1&column=6">
+
 ### 🧾 Portfolio
 - <a href="https://bit.ly/3UqJbQG"><img src="https://img.shields.io/badge/Notion-blue?logo=notion&logoColor=white"></a>
 
@@ -25,10 +27,6 @@
 - `Spring Data Redis` : [Improve StreamMessageListenerContainer Javadoc #3021](https://github.com/spring-projects/spring-data-redis/pull/3021)
 - `Rest Assured` : [Fix typo in Javadoc #3365](https://github.com/assertj/assertj/pull/3365)
 - `gitanimals` : [docs: line mode 'pet-id' 쿼리 파라미터 설명 추가 #31](https://github.com/assertj/assertj/pull/3365)
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=csct3434&theme=buefy&row=1&column=6">
 
 <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/lines/csct3434?pet-id=629640887027723051" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/csct3434?pet-id=627422376624737889" width="25%" height="100"/>
