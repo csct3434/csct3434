@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=DongCheol%20Kim&fontSize=70&fontAlignY=40&fontAlign=35&height=230&fontColor=ffffff)
 
-<img src="https://github-profile-trophy.vercel.app/?username=csct3434&theme=buefy&row=1&column=6">
-
 ### 🧾 Portfolio
 - <a href="https://bit.ly/3UqJbQG"><img src="https://img.shields.io/badge/Notion-blue?logo=notion&logoColor=white"></a>
 
