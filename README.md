@@ -23,7 +23,7 @@
 
 ### ✨ Contribution
 - `Spring Data Redis` : [Improve StreamMessageListenerContainer Javadoc #3021](https://github.com/spring-projects/spring-data-redis/pull/3021)
-- `Rest Assured` : [Fix typo in Javadoc #3365](https://github.com/assertj/assertj/pull/3365)
+- `AssertJ` : [Fix typo in Javadoc #3365](https://github.com/assertj/assertj/pull/3365)
 - `gitanimals` : [docs: line mode 'pet-id' 쿼리 파라미터 설명 추가 #31](https://github.com/assertj/assertj/pull/3365)
 
 <a href="https://github.com/devxb/gitanimals">
